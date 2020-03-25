@@ -1,0 +1,10 @@
+theme: Blogpaper
+title: The O'Sullivans
+author:
+  name: Kyle O'Sullivan
+baseURL: https://theosullivanfamily.org
+copyright: # Optional, will be displayed on site's footer, if this line is removed an default copyright will be generated
+languageCode: en # The language code of your site, by default "en"
+params:
+  description: # The description of your site (used on a <meta> tag)
+  subtitleLength: 25 # The number of words on the subtitle of a page
