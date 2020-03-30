@@ -4,9 +4,9 @@ subtitle:
 date: 2020-03-16T21:45:31-04:00
 categories: # Optional, will be displayed above the title of the page
 tags: 
-  - 2019 
-  - Jack
-  - COVID-19
+  - 2020 
+  - jack
+  - coronavirus
 summary: The O'Sullivans are now a party of 4!
 draft: false
 banner:
